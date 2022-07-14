@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+#mainHeading {
+    font-style: italic;
+    color: red;
+}
+
+body {
+    font: Cambria;
+    font-size:large;
+    margin: 8px;
+    display: block;
+}
+
+img {
+    height: 500px;
+    width: 900px;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+.top {
+background-color:lightgreen
+}
+
+.nav {
+background-color: lightgrey;
+border: 1px solid black;
+width: fit-content;
+padding-right: 20px;
+}
+
+#testP.funParagraph {
+    background-color: green;
+}
+
+#console {
+    height: 300px;
+    width: 750px;
+}
+
+.bottom {
+background-color: lightcoral;
+}
